@@ -61,7 +61,7 @@ The cache file is located in `/var/lib/jetty/webapps/ROOT/tmp`. The directory is
 
 A custom [Helgoland](https://github.com/52North/helgoland) `settings.json` can be mounted to `/var/lib/jetty/webapps/ROOT/static/client/helgoland/settings.json`. This is needed, e.g when the external URL of the SOS differs from `http://localhost:8080/`.
 
-#### Examples
+#### My Examples
 
 Default:
 ```sh
